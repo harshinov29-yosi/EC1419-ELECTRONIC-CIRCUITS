@@ -25,7 +25,8 @@
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
 ## Calculations
-![WhatsApp Image 2026-03-24 at 20 57 43](https://github.com/user-attachments/assets/95284a95-5026-4250-a801-a438fb2b57c6)
+![WhatsApp Image 2026-03-24 at 21 01 21](https://github.com/user-attachments/assets/cfb6bc2f-096d-4136-b5a9-08395ee69a61)
+
 
 
 ## Graph
