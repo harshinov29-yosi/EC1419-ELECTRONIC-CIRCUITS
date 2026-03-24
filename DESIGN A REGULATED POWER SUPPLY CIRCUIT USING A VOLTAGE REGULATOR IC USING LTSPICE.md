@@ -8,8 +8,13 @@
 
 ## Tabulations
 
+## Circuit Diagram
+<img width="903" height="589" alt="image" src="https://github.com/user-attachments/assets/ec324113-57df-488f-8be0-6657aee1de48" />
+
 ## Graph
+<img width="1600" height="702" alt="image" src="https://github.com/user-attachments/assets/2550f39b-013d-4e62-85af-725d6a38db46" />
 
 
+## Result
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
 
