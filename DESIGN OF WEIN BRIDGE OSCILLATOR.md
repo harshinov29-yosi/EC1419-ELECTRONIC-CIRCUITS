@@ -12,8 +12,12 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
+## Circuit Diagram
+<img width="762" height="673" alt="image" src="https://github.com/user-attachments/assets/b70f212f-9e0a-4f9f-8342-496b6cb13b65" />
+
 
 ## Calculations
+<img width="1280" height="803" alt="image" src="https://github.com/user-attachments/assets/a4efa1fe-84ed-4e9d-8f6f-3f11fbb08a8a" />
 
 ## Graph
 
@@ -27,3 +31,5 @@ Theoritical Frequency of Oscillation =
 ![op2 image](https://github.com/user-attachments/assets/f94667a4-aba5-4b99-83cc-7756e3391e37)
 
 ## Result
+<img width="1280" height="430" alt="image" src="https://github.com/user-attachments/assets/c48e830b-57b7-4e01-add3-e63cf7b3b9f2" />
+
