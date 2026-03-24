@@ -39,3 +39,5 @@
 **VOLTAGE GAIN =**
 
 **BANDWIDTH =**
+![WhatsApp Image 2026-03-24 at 21 00 21](https://github.com/user-attachments/assets/df0e5614-46e1-41f5-b7fd-44c4fef4d3c2)
+
