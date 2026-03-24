@@ -13,7 +13,7 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## Calculations
 
 ## Graph
 
@@ -23,3 +23,7 @@ Practical frequency of Oscillation =
 
 
 Theoritical Frequency of Oscillation =
+
+![op2 image](https://github.com/user-attachments/assets/f94667a4-aba5-4b99-83cc-7756e3391e37)
+
+## Result
