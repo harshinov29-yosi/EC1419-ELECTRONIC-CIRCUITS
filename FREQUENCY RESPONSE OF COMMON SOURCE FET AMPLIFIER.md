@@ -6,9 +6,11 @@
 <img width="760" height="462" alt="image" src="https://github.com/user-attachments/assets/eeff6a23-1fb7-494b-a99d-c05b574526f8" />
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
+# Circuit Diagram
+<img width="890" height="1280" alt="image" src="https://github.com/user-attachments/assets/152c6092-06c5-438f-8a41-026ab5473326" />
 
 # Tabulation with readings
-![Uploading image.png…]()
+<img width="1121" height="1280" alt="image" src="https://github.com/user-attachments/assets/7555a5f4-ecfb-46be-baab-d056b55f38ed" />
 
 ## Semilog plotted Graph
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/68574236-8c48-458a-9e52-fd7c5863baa9" />
